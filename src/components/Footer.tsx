@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <img src="/logo.png" alt="Jowhara Collection" className="h-8 w-auto mb-4 brightness-0 invert" />
+            <img src="/JWLOGO.jpeg" alt="Jowhara Collection" className="h-8 w-auto mb-4 brightness-0 invert" />
             <p className="text-gray-300 text-sm">
               Discover our premium collection of luxury beauty and fragrance products.
             </p>
