@@ -45,7 +45,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex-shrink-0">
-            <img src="/JWLOGO.png" alt="Jowhara Collection" className="h-8 w-auto" />
+            <img src="/JWLOGO.jpeg" alt="Jowhara Collection" className="h-8 w-auto" />
           </Link>
 
           {/* Navigation */}
