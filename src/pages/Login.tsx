@@ -33,7 +33,7 @@ const Login: React.FC = () => {
     <div className="min-h-screen bg-gray-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full space-y-8">
         <div>
-          <img src="/logo.png" alt="Jowhara Collection" className="mx-auto h-12 w-auto" />
+          <img src="/JWLOGO.jpeg" alt="Jowhara Collection" className="mx-auto h-12 w-auto" />
           <h2 className="mt-6 text-center text-3xl font-bold text-primary">
             Sign in to Admin Panel
           </h2>
